@@ -7,6 +7,7 @@ public class ApCalculator
     
     final int limit =10000;
   
+   // Fixed the issue on this.
 
     int first_number,second_number,third_number,nth_term;
  
